@@ -18,4 +18,4 @@ Sou formado em **Desenvolvimento de Software** e apaixonado por construir soluç
 ### 🌐 Vamos nos conectar?
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seicoan.messias@email.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([{https://www.instagram.com/seicoan/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seicoan/)
