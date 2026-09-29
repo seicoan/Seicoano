@@ -3,7 +3,7 @@ Bem vindo ao meu perfil **GitHub** 👋
 
  🚀 **Desenvolvedor de Software**
 
-Sou um **Desenvolvedor de Software** e apaixonado por construir soluções web eficientes, escaláveis e com design moderno. Tenho domínio completo em **JavaScript**, além de forte experiência em **HTML5** e **CSS3**. Trabalhei muito pouco tempo na área de Ciências de Dados como estagiário e acabei mudando de área da educação.
+Sou um **Desenvolvedor de Software** e apaixonado por construir soluções web eficientes, escaláveis e com design moderno. Tenho domínio completo em **JavaScript**, além de forte experiência em **HTML5** e **CSS3**. Trabalhei muito pouco tempo na área de Ciências de Dados como estagiário, mas acabei optando outra área da educação.
 
 ---
 
