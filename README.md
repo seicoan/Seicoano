@@ -1,12 +1,12 @@
 # Olá, eu sou o João Victor! 👋
 
- 🚀 Desenvolvedor de Software
+ 🚀 **Desenvolvedor de Software**
 
 Sou formado em **Desenvolvimento de Software** e apaixonado por construir soluções web eficientes, escaláveis e com design moderno. Tenho domínio completo em **JavaScript**, além de forte experiência em **HTML5** e **CSS3**.
 
 ---
 
- 🛠️ Tecnologias & Ferramentas
+ 🛠️ **Tecnologias & Ferramentas**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
